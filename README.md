@@ -1,4 +1,4 @@
-# TileSweeper
+![TileSweeper Screenshot](Assets/GameLogo.png)
 
 TileSweeper is a game developed using Unreal Engine 5.4.4, where the player navigates a grid of tiles, aiming to find green tiles and avoid red ones. The game is based on a simple tile system that reacts to the player's movements. The game ends when all green tiles are found or when all red tiles are stepped on.
 
